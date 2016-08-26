@@ -1,5 +1,5 @@
 {
-    "name": "opulencebd101/wp_nonce",
+    "name": "opulencebd101/nonce",
     "description": "WordPress Nonces in an object-oriented way",
     "license": "GPL",
     "authors": [
